@@ -1,0 +1,13 @@
+name: asset_bundle
+description: Bundle multiple assets into one single file.
+version: 1.0.0
+homepage: https://github.com/aloisdeniel/asset_bundle
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  
+dependencies:
+  recase: ^4.1.0
+
+dev_dependencies:
+  lints: ^2.0.0
